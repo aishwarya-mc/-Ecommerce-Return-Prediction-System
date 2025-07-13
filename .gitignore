@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Large data files (keep only a small sample if needed)
+ecommerce_returns_synthetic_data.csv
+ecommerce_returns_synthetic_data_realistic.csv
+bracketing_labeled_data.csv
+
+# AutoGluon model directories (unless needed for inference)
+model2_autogluon/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.log 
