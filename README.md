@@ -43,7 +43,7 @@ By leveraging these insights, the system enables:
 ## Tech Stack
 - **Frontend:** Streamlit
 - **ML Libraries:** Scikit-learn, AutoGluon
-- **Visualization:** Matplotlib, Seaborn (if used)
+- **Visualization:** Matplotlib
 
 ## Business Value
 While the main goal is to improve the customer experience, this system also empowers e-commerce businesses to:
