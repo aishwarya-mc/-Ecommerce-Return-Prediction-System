@@ -32,7 +32,7 @@ By leveraging these insights, the system enables:
    ```
 3. Run the app:
    ```bash
-   streamlit run interface/main.py
+     python -m streamlit run interface/main.py
    ```
 
 ## Usage
