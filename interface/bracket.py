@@ -375,7 +375,7 @@ def main():
 
     st.title("Bracketing Detection System")
 
-    st.markdown("###Bracketing Analysis")
+    st.markdown("### Bracketing Analysis")
     col1, col2, col3 = st.columns(3)
     
     with col1:

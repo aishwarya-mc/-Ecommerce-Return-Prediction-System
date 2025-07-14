@@ -162,7 +162,7 @@ with main_container:
         return_reason_main()
 
     elif st.session_state.current_page == "Bracketing Detection":
-        st.markdown("##  Bracketing Behavior Detection")
+        st.markdown("## Bracketing Behavior Detection")
         st.markdown("""
         <div class="metric-card">
             <h3>What this does:</h3>
